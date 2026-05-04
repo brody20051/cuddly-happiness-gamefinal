@@ -111,10 +111,10 @@ It demonstrates how user interaction data can be structured and prepared for sto
 Replace with your deployed app URL:
 
 * HTML Validator:
-  https://validator.w3.org/nu/?doc=YOUR_DEPLOYED_URL
+  https://validator.w3.org/nu/?doc=https://brody20051.github.io/cuddly-happiness-gamefinal/
 
 * WAVE Accessibility Report:
-  https://wave.webaim.org/report#/YOUR_DEPLOYED_URL
+  https://wave.webaim.org/report#/https://brody20051.github.io/cuddly-happiness-gamefinal/
 
 Both results are clean with no major errors.
 
