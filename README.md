@@ -158,6 +158,16 @@ Known issues:
 * Session storage used for login state
 * Fetch API used for dynamic AI data
 
+* ## 🔮 Future Improvements
+
+Milestone: Sprint 99  
+https://github.com/brody20051/cuddly-happiness-gamefinal/milestone/1
+
+Includes:
+- Sound effects
+- AI improvements
+- Leaderboard system
+
 ---
 
 🔥 This project demonstrates interactive front-end development with real-time user input, animation, and structured data handling.
